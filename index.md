@@ -39,7 +39,7 @@ Occasionally, we will read research papers or academic resources that are specif
 *   **[Features of Good Academic Writing](features.md)**: A list adapted from Hyland, K. (2000). *[Disciplinary discourses: social interactions in academic writing](https://muse.jhu.edu/book/22712)*.
   
 *   **Writer’s Block? Check These Out:**
-    * **[Logic of Inquiry Worksheet](logic.md)**: A worksheet for outlining a focused and coherent argument adapted from Prof. Jessica Watkins at Vanderbilt University.
+    * **[Logic of Inquiry Worksheet](inquiry.md)**: A worksheet for outlining a focused and coherent argument adapted from Prof. Jessica Watkins at Vanderbilt University.
     * **[They Say/I Say Cheatsheet](cheatsheet.md)** adapted from the book *They Say, I Say* by Birkenstein, Graff, and Durst.
 
 ---
