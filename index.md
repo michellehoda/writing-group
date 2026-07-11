@@ -36,7 +36,7 @@ Occasionally, we will read research papers or academic resources that are specif
 
 *   **[Norms Document](norms.md)**: Every semester, we discuss and develop a set of norms for giving and receiving feedback. This is a starter doc that we'll adapt.
 *   **[What is Going On?](wigo.md)**: Some useful language and structure to communicate your feedback needs. 
-*   **[Features of Good Academic Writing](features)**: A list adapted from Hyland, K. (2000). *[Disciplinary discourses: social interactions in academic writing](https://muse.jhu.edu/book/22712)*.
+*   **[Features of Good Academic Writing](features.md)**: A list adapted from Hyland, K. (2000). *[Disciplinary discourses: social interactions in academic writing](https://muse.jhu.edu/book/22712)*.
   
 *   **Writer’s Block? Check These Out:**
     * **[Logic of Inquiry Worksheet](logic.md)**: A worksheet for outlining a focused and coherent argument adapted from Prof. Jessica Watkins at Vanderbilt University.
