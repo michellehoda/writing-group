@@ -34,13 +34,13 @@ Occasionally, we will read research papers or academic resources that are specif
 ---
 ## Course Resources
 
-*   **[[norms]]**: Every semester, we discuss and develop a set of norms for giving and receiving feedback. This is a starter doc that we'll adapt.
-*   **[[wigo]]**: Some useful language and structure to communicate  your feedback needs. 
-*   **[Features of Good Academic Writing](https://drive.google.com/file/d/1l3nenBO41Bum8hkLwRwYsyre299YPtoT/view?usp=sharing)**: A list adapted from Hyland, K. (2000). *[Disciplinary discourses: social interactions in academic writing](https://muse.jhu.edu/book/22712)*.
+*   **[Norms Document](norms.md)**: Every semester, we discuss and develop a set of norms for giving and receiving feedback. This is a starter doc that we'll adapt.
+*   **[What is Going On?](wigo.md)**: Some useful language and structure to communicate your feedback needs. 
+*   **[Features of Good Academic Writing](features)**: A list adapted from Hyland, K. (2000). *[Disciplinary discourses: social interactions in academic writing](https://muse.jhu.edu/book/22712)*.
   
 *   **Writer’s Block? Check These Out:**
-    * **[[inquiry]]**: A worksheet for outlining a focused and coherent argument adapted from Prof. Jessica Watkins at Vanderbilt University.
-    * **[[cheatsheet]]** adapted from the book *They Say, I Say* by Birkenstein, Graff, and Durst.
+    * **[Logic of Inquiry Worksheet](logic.md)**: A worksheet for outlining a focused and coherent argument adapted from Prof. Jessica Watkins at Vanderbilt University.
+    * **[They Say/I Say Cheatsheet](cheatsheet.md)** adapted from the book *They Say, I Say* by Birkenstein, Graff, and Durst.
 
 ---
 ## Course Policies
