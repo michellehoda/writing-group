@@ -29,4 +29,5 @@
 * Check in with the writer to see where (at the end of the document is common) and how (big ideas or details/transcription) to take notes
 * Discuss and add here…
 *  
-* 
+
+[Back to the Syllabus...](index.md)
