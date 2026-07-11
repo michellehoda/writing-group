@@ -1,4 +1,4 @@
-This is the syllabus template and a collection of resources for my Berkeley course, "Academic Writing Support Group" (EDUC 209). \
+This is the syllabus template and a collection of resources for my Berkeley course, "Academic Writing Support Group" ([EDUC 209](https://graduate.catalog.berkeley.edu/courses/1613121/overview-aoYks)).
 I've been using some version of these for over a decade, and they have been improved over time as I've shared them with numerous colleagues and students. 
 I've heard these materials are being used by other groups, so I wanted to formally release them.
 These are licensed under a CC-BY-4.0 license, which means you can use and adapt as you'd like, but please ensure that you maintain proper attribution to all currently credited contributors (and credit other contributors as the materials evolve).
