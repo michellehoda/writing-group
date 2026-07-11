@@ -10,3 +10,5 @@ you’d like your writing to eventually appear. For example, I might say somethi
 **Where you’d like us to focus.** On the next page is a list of some features of good academic writing. The list isn’t exhaustive, it’s just meant to get you thinking. But using those elements as exemplars or inspiration, give us 1-2 specific things you’d like us to focus on when reading your written work. It could be something like “Is the ‘So what’ of this work convincing?” or, “Is my review of the research on X clear? Is it apparent how my analytic coding scheme connects to prior work?” 
 
 **Other relevant requirements or details.** If you are working on a conference submission, send along the call for papers. If you’re working on something you’d like to end up in a certain journal, link to its Aims and Scope and let us know of any word limits, etc. 
+
+[Back to the Syllabus...](index.md)
