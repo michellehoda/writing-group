@@ -1,3 +1,5 @@
+# What is Going On?
+
 “What is going on?” notes help other group members tailor their feedback to your needs. Hopefully, these notes will also get you thinking more deeply about writing itself. When you submit a piece of writing for feedback, it should be accompanied by quick descriptions of: 
 
 **Context.** Let us know what your piece of writing is for. Is this working toward a position paper? Grant proposal? Journal article? Additionally, if you are sharing a small part of a longer piece, let us know (briefly) what your reader will already know when they come to the piece you are sharing. For example, if you’d like feedback on an analysis of data from a larger project, don’t waste your precious space including details of the project. However, help the readers know what to expect by saying something like “This is an analysis of data I collected as part of the Algebra Teaching Study. You can learn more about that project a rats.berkeley.edu”. “You’ll notice I use Aziz’s Very Interesting Framework or VIF. This is already described in the Theoretical Framework section of the paper; for a quick review check out vif.fakewebsite.com.”

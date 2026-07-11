@@ -1,3 +1,4 @@
+# Logic of Inquiry Worksheet
 _Shared by Prof. Jessica Watkins @ Vanderbilt. Based on Clark, Guba, & Smith, 1977; modified from Rowe, 2014._
 
 **Problem Statement**

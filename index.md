@@ -26,21 +26,21 @@ Every week, we will set writing goals to be reviewed at our next class meeting. 
 ### Presenting Work
 We’ll have presentations throughout the semester from students seeking feedback on their writing. Every presentation must be accompanied by a written document. All participants in the group must present at least once.
 
-* **Short Pieces (1,000–2,500 words):** Please send your document to the group on the group-agreed date before your presentation. Include with that document a [[What is Going On?]] note.
-* **Long Pieces (2,500–10,000 words):** For these sessions, please distribute your paper to the group on an agreed date that is earlier than is typical, and indicate where you hope people with limited time might best focus their attention. Include with that document a [[What is Going On?]] note.
+* **Short Pieces (1,000–2,500 words):** Please send your document to the group on the group-agreed date before your presentation. Include with that document a [[wigo]] note.
+* **Long Pieces (2,500–10,000 words):** For these sessions, please distribute your paper to the group on an agreed date that is earlier than is typical, and indicate where you hope people with limited time might best focus their attention. Include with that document a [[wigo]] note.
 ### Reflecting on the Academic Writing Process
 Occasionally, we will read research papers or academic resources that are specifically about scholarly writing. This includes examinations of how different researchers and fields approach scholarly writing, explorations of the peer review process, and papers designed to introduce new researchers to academic writing. These sessions are meant to “pull back the curtain” on scholarly genres, the frequency of rejection and revision in scholarly writing, and on how to leverage into the invisible network of supporters that you often have behind the scenes.
 
 ---
 ## Course Resources
 
-*   **[[Norms Document]]**: Every semester, we discuss and develop a set of norms for giving and receiving feedback. This is a starter doc that we'll adapt.
-*   **[[What is Going On?]]**: Some useful language and structure to communicate  your feedback needs. 
+*   **[[norms]]**: Every semester, we discuss and develop a set of norms for giving and receiving feedback. This is a starter doc that we'll adapt.
+*   **[[wigo]]**: Some useful language and structure to communicate  your feedback needs. 
 *   **[Features of Good Academic Writing](https://drive.google.com/file/d/1l3nenBO41Bum8hkLwRwYsyre299YPtoT/view?usp=sharing)**: A list adapted from Hyland, K. (2000). *[Disciplinary discourses: social interactions in academic writing](https://muse.jhu.edu/book/22712)*.
   
 *   **Writer’s Block? Check These Out:**
-    * **[[Logic of Inquiry Worksheet]]**: A worksheet for outlining a focused and coherent argument adapted from Prof. Jessica Watkins at Vanderbilt University.
-    * **[[Academic Writing Cheatsheet]]** adapted from the book *They Say, I Say* by Birkenstein, Graff, and Durst.
+    * **[[inquiry]]**: A worksheet for outlining a focused and coherent argument adapted from Prof. Jessica Watkins at Vanderbilt University.
+    * **[[cheatsheet]]** adapted from the book *They Say, I Say* by Birkenstein, Graff, and Durst.
 
 ---
 ## Course Policies

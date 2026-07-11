@@ -1,3 +1,4 @@
+# Features of Good Academic Writing
 _Adapted from Hyland, K. (2000). Disciplinary discourses: social interactions in academic writing. Essex, England: Pearson Education Limited._
 
 Good academic writing, no matter the discipline, field, or genre, is characterized by:

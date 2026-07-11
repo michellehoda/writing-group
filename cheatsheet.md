@@ -1,3 +1,4 @@
+# Academic Writing Cheatsheet
 _This exercise is adapted from book **They Say/I Say** by Graff and Birkenstein._
 
 At some point in your writing, hopefully toward the beginning, you need to explain why the thing you are studying is important. And if you are in academia, this often involves situating your work among other conversations in the field. To do this well, you need to clearly describe the state of the field, in a way that helps you build on the conversation.

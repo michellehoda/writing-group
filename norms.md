@@ -1,3 +1,5 @@
+# Norms Document
+
 *Please discuss, edit, and add to this template to create a set of agreements that will work for everyone in our group. I have intentionally removed or made more generic some past norms so that we can rebuild or re-add as needed to share this group anew.*
 
 **As a group:**
