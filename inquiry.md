@@ -41,4 +41,6 @@ _Shared by Prof. Jessica Watkins @ Vanderbilt. Based on Clark, Guba, & Smith, 19
 
 * Are the constructs operationalized clearly and appropriately?  
 
-* Do the analyses & conclusions address the problem statement? 
+* Do the analyses & conclusions address the problem statement?
+
+[Back to the Syllabus...](index.md)
