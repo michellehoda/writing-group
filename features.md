@@ -25,3 +25,5 @@ the paper will be successful.
 **Writing with a Compelling Strong Voice.** You are either a member of the  disciplinary tribe already, or you are asking to be accepted into the tribe. You are the expert on your subject. Write with conviction.
 
 **Making Sure Your Writing is Mechanically Competent.** Finally, by using the proper rules of citation expected in your field or discipline, a writer is able to establish a credible writerly ethos. Citation helps to define a specific context of knowledge or problem to which the current work is a contribution. Citation plays an important role in mediating the relationship between a writer’s argument and his or her discourse community. And then there is plagiarism. Do not do it.
+
+[Back to the Syllabus...](index.md)
