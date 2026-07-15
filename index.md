@@ -1,4 +1,4 @@
-_Note: This is a syllabus template and a collection of resources for my course "Academic Writing Support Group" (EDUC 209) at UC Berkeley. Everything rendered here is from simple Markdown files, a human-readable filetype that can be imported into Google Docs, converted into HTML files, or edited on various platforms. You can download them directly from the GitHub repository [here](https://github.com/michellehoda/writing-group)._
+_Note: This is a syllabus template and a collection of resources for my course "Academic Writing Support Group" (EDUC 209) at UC Berkeley. Some colleagues have asked me to share, so here they are rendered from simple Markdown files: a human-readable filetype that can be imported into Google Docs, converted into HTML files, or edited on various platforms. You can download everything here directly from the GitHub repository [here](https://github.com/michellehoda/writing-group)._
 
 # Academic Writing Group
 
