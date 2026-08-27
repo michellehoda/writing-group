@@ -1,13 +1,21 @@
 # Academic Writing Group
 
-**Instructor Name**
-Title
-Unit(s) 
-Institution  
-[email@address](mailto:)
+**Michelle H Wilkerson** \
+Associate Professor \
+Berkeley School of Education \
+Graduate Group in Science and Mathematics Education \
+University of California, Berkeley
 
 **Time & Location**
-*   **Time**: Room or on Zoom
+* Mondays, 4-5p
+* Room TBD
+* Zoom [at this link](https://berkeley.zoom.us/j/98029525249?pwd=T5iFuwcjgx69BrereE0nIAs2AB3Utd.1)
+
+OR
+
+* Tuesdays, 11a-12n
+* Room TBD
+* Zoom [at this link](https://berkeley.zoom.us/j/98029525249?pwd=T5iFuwcjgx69BrereE0nIAs2AB3Utd.1)
 
 ## Course Description
 This course focuses on providing caring accountability and focused instructor and peer feedback on scholarly writing. All are welcome; however, our areas of specialty are typically concentrated in the Learning Sciences and STEM Education. We will occasionally have workshops focused on professional development issues such as navigating conferences, submitting to journals, and conducting peer review. There are no prerequisites for this class, though it works best to have a specific piece of writing you are hoping to advance during the semester. Through writing and feedback, we will also engage deeply in the intellectual substance of one another’s work. 
@@ -33,17 +41,17 @@ Occasionally, we will read research papers or academic resources that are specif
 
 ## Course Resources
 
-*   **[Norms Document](norms.md)**: Every semester, we discuss and develop a set of norms for giving and receiving feedback. This is a starter doc that we'll adapt.
-*   **[What is Going On?](wigo.md)**: Some useful language and structure to communicate your feedback needs. 
-*   **[Features of Good Academic Writing](features.md)**: A list adapted from Hyland, K. (2000). *[Disciplinary discourses: social interactions in academic writing](https://muse.jhu.edu/book/22712)*.
+*   **[Norms Document](https://docs.google.com/document/d/15wb0DrvtCFzjSfFogOHQGFcDw3zkS56T5AncloOzXyY/edit?tab=t.0)**: Every semester, we discuss and develop a set of norms for giving and receiving feedback. This is a starter doc that we'll adapt.
+*   **[What is Going On?](https://michellehoda.github.io/writing-group/wigo.html)**: Some useful language and structure to communicate your feedback needs. 
+*   **[Features of Good Academic Writing](https://michellehoda.github.io/writing-group/features.html)**: A list adapted from Hyland, K. (2000). *[Disciplinary discourses: social interactions in academic writing](https://muse.jhu.edu/book/22712)*.
   
 *   **Writer’s Block? Check These Out:**
-    * **[Logic of Inquiry Worksheet](inquiry.md)**: A worksheet for outlining a focused and coherent argument adapted from Prof. Jessica Watkins at Vanderbilt University.
-    * **[They Say/I Say Cheatsheet](cheatsheet.md)** adapted from the book *They Say, I Say* by Birkenstein, Graff, and Durst.
+    * **[Logic of Inquiry Worksheet](https://michellehoda.github.io/writing-group/inquiry.html)**: A worksheet for outlining a focused and coherent argument adapted from Prof. Jessica Watkins at Vanderbilt University.
+    * **[They Say/I Say Cheatsheet](https://michellehoda.github.io/writing-group/cheatsheet.html)** adapted from the book *They Say, I Say* by Birkenstein, Graff, and Durst.
 
 ## Course Policies
 
-*Please check the [course site]() for the most up to date information. The version you are looking at was last updated [DATE]*
+*Please check the [course site](https://michellehoda.github.io/writing-group/) for the most up to date information. The version you are looking at was last updated Aug 27, 2026*
 
 ### Grading Policy
 This course is graded on a Satisfactory/Unsatisfactory basis. Satisfactory participation is defined in the Course Objectives listed above.
@@ -53,7 +61,7 @@ Participants are expected to attend all classes unless prior arrangements have b
 
 ### Academic Integrity
 The writing you present in this class should be your own work. Plagiarism will result in a failing grade and potential disciplinary action. Berkeley's College Writing Programs has a [clear definition of plagiarism with examples](https://writing.berkeley.edu/academic-honesty).
-* **AI Policy**: The use of AI tools is discouraged, but some uses are permissible. It's important to remember that generative AI tools are literally trained on stolen books and writing, and they are frequently wrong in both subtle and incredibly obvious ways. Use without proper citation (identifying the tool, the parts of work it was used for, and sharing your prompts or process), substantial editing/revision, and careful critical review and integration of information presented is considered plagiarism. 
+* **AI Policy**: _Note that additional AI Policies set by the Writing Group may be specified in the Norms Document._  The use of AI tools is discouraged, but some uses are permissible. It's important to remember that generative AI tools are literally trained on stolen books and writing, and they are frequently wrong in both subtle and incredibly obvious ways. Use without proper citation (identifying the tool, the parts of work it was used for, and sharing your prompts or process), substantial editing/revision, and careful critical review and integration of information presented is considered plagiarism. 
 
 ### Academic and Scheduling Accommodations
 If you need disability-related accommodations in this class and have an Letter of Accommodation, have emergency medical information you wish to share, or need special arrangements in case the building must be evacuated, please inform me immediately. You can see me privately before or after class, or in my office. **The [Disabled Students’ Program](https://dsp.berkeley.edu/home)  (DSP)** is the campus office responsible for authorizing disability related academic accommodations, in cooperation with the students themselves, and their instructors. Students who need academic accommodations, or have questions about their eligibility, should contact DSP, located at 260 César Chávez Student Center. Students may call 642-0518 (voice), 642-6376 (TTY), or e-mail [dsp@berkelely.edu](mailto:dsp@berkelely.edu). Resources are also available via the [Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub).
