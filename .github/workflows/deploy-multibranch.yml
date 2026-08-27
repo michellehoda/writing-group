@@ -1,0 +1,34 @@
+name: Deploy Multiple Branches to Pages
+
+on:
+  push:
+    branches:
+      - main
+      - fa26 # Add any other branches you want to trigger this build
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Main Branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: site-root
+
+      - name: Checkout Class Branch
+        uses: actions/checkout@v4
+        with:
+          ref: fa26
+          path: site-root/fa26 # Moves fa26 files into a subfolder
+
+      # Optional: Repeat the checkout step for any other branches you need
+
+      - name: Deploy to GitHub Pages Branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: site-root
+          branch: gh-pages # Deploys the combined structure to gh-pages branch
