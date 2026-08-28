@@ -1,6 +1,6 @@
 This is the syllabus template and a collection of resources for my Berkeley course, "Academic Writing Support Group" ([EDUC 209](https://graduate.catalog.berkeley.edu/courses/1613121/overview-aoYks)).
 
-Preview the template materials [here](https://michellehoda.github.io/writing-group/)
+Preview the template materials [here](https://michellehoda.github.io/writing-group/).
 
 I've been using some version of these materials for over a decade, and they have been improved over time as I've shared them with numerous colleagues and students. 
 I've heard these have been adopted by others who have found them useful, so I wanted to formally release them.
