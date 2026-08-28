@@ -4,31 +4,45 @@ on:
   push:
     branches:
       - main
-      - fa26 # Add any other branches you want to trigger this build
+      - fa26
 
 permissions:
-  contents: write
+  contents: write # Forces write permissions for the GITHUB_TOKEN directly in the file
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
+      # 1. Checkout Main branch to its own separate temp folder
       - name: Checkout Main Branch
         uses: actions/checkout@v4
         with:
           ref: main
-          path: site-root
+          path: temp-main
 
-      - name: Checkout Class Branch
+      # 2. Checkout Fa26 branch to its own separate temp folder
+      - name: Checkout Fa26 Branch
         uses: actions/checkout@v4
         with:
           ref: fa26
-          path: site-root/fa26 # Moves fa26 files into a subfolder
+          path: temp-fa26
 
-      # Optional: Repeat the checkout step for any other branches you need
+      # 3. Create the final compiled site structure in a clean folder
+      - name: Merge Branches into Deployment Folder
+        run: |
+          mkdir final-site
+          
+          # Copy main branch files to the root of the site
+          cp -r temp-main/* final-site/
+          
+          # Create a subfolder for fa26 and copy fa26 branch files into it
+          mkdir -p final-site/fa26
+          cp -r temp-fa26/* final-site/fa26/
 
+      # 4. Deploy the clean compilation folder to gh-pages
       - name: Deploy to GitHub Pages Branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: site-root
-          branch: gh-pages # Deploys the combined structure to gh-pages branch
+          folder: final-site
+          branch: gh-pages
+          token: ${{ secrets.GITHUB_TOKEN }} # Explicitly injects authentication token
