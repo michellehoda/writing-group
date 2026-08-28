@@ -7,42 +7,38 @@ on:
       - fa26
 
 permissions:
-  contents: write # Forces write permissions for the GITHUB_TOKEN directly in the file
+  contents: write
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      # 1. Checkout Main branch to its own separate temp folder
+      # 1. Checkout Main branch to the default workspace root (keeps .git folder healthy)
       - name: Checkout Main Branch
         uses: actions/checkout@v4
         with:
           ref: main
-          path: temp-main
 
-      # 2. Checkout Fa26 branch to its own separate temp folder
+      # 2. Checkout Fa26 branch to an external temporary workspace entirely outside
       - name: Checkout Fa26 Branch
         uses: actions/checkout@v4
         with:
           ref: fa26
-          path: temp-fa26
+          path: external-temp-fa26
 
-      # 3. Create the final compiled site structure in a clean folder
-      - name: Merge Branches into Deployment Folder
+      # 3. Create the fa26 subfolder inside the root workspace and safely copy files
+      - name: Merge Fa26 Branch into Subfolder
         run: |
-          mkdir final-site
-          
-          # Copy main branch files to the root of the site
-          cp -r temp-main/* final-site/
-          
-          # Create a subfolder for fa26 and copy fa26 branch files into it
-          mkdir -p final-site/fa26
-          cp -r temp-fa26/* final-site/fa26/
+          mkdir -p fa26
+          # Copy all fa26 files except its own .git configuration
+          rsync -av --exclude='.git' external-temp-fa26/ fa26/
+          # Clean up the external temp folder so it doesn't get deployed
+          rm -rf external-temp-fa26
 
-      # 4. Deploy the clean compilation folder to gh-pages
+      # 4. Deploy the default workspace root directly
       - name: Deploy to GitHub Pages Branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: final-site
+          folder: . # Deploys the current working directory which now includes the dev/ folder
           branch: gh-pages
-          token: ${{ secrets.GITHUB_TOKEN }} # Explicitly injects authentication token
+          token: ${{ secrets.GITHUB_TOKEN }}
